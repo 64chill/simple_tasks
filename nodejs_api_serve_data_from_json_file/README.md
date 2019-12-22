@@ -22,4 +22,5 @@ To do so the API routes are the following:
 1. localhost:5000/direct-friends?user=_USER_ID_INPUT_ 
 2. localhost:5000/friends-of-friends?user=_USER_ID_INPUT_
 3. localhost:5000/suggested-friends?user=_USER_ID_INPUT_
+
 Where the USER_ID_INPUT is the number between 1 and 20, since these are userIDs found in the data.json file
